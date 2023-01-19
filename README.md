@@ -5,7 +5,7 @@
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
-This project is a basic image classification model that uses the MNIST dataset to classify hand-written digits. The model is built and trained using TensorFlow and Keras in a Jupyter Notebook.
+This project is a basic image classification model that uses the MNIST dataset to classify **hand-written digits**. The model is built and trained using **TensorFlow** and **Keras** in a **Jupyter Notebook**.
 
 ## Getting Started
 
@@ -21,11 +21,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repository:
-   `git clone`
-2. Install the required packages:
+1. **Clone the repository:**
+
+   `git clone https://github.com/mrdaliselmi/Basic-Image Classification-with-TensorFlow`
+2. **Install the required packages:**
+
    `pip install -r requirements.txt`
-3. Running the model: To run the Jupyter Notebook, navigate to the project directory and open the notebook named [`image-classification.ipynb`](image-classification.ipynb) and run the cells in order.
+3. **Running the model:**
+
+   To run the Jupyter Notebook, navigate to the project directory and open the notebook named [`image-classification.ipynb`](image-classification.ipynb) and run the cells in order.
 
 ## Results
 
