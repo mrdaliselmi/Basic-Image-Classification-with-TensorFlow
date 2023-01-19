@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. **Clone the repository:**
 
-   `git clone https://github.com/mrdaliselmi/Basic-Image Classification-with-TensorFlow`
+   `git clone https://github.com/mrdaliselmi/Basic-Image-Classification-with-TensorFlow`
 2. **Install the required packages:**
 
    `pip install -r requirements.txt`
